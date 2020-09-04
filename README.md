@@ -4,5 +4,5 @@ Here's where you can find our libraries right now
 - 89th and Meridian
 
 Some books currently stocked that we recommend
-- ![War and Peace](./images/warandpeace.jpg) War and Peace
-- Jurassic Park
+![War and Peace](./images/warandpeace.jpg | width=100) War and Peace
+Jurassic Park
